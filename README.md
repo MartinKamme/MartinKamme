@@ -25,7 +25,7 @@ Recreated the InSight trajectory and analyzed mission design properties such as 
 <img src="https://user-images.githubusercontent.com/55825284/155864997-1af6582d-9559-40e8-a45a-50a4bfd04f1f.jpg" width="400"> <img src="https://user-images.githubusercontent.com/55825284/155865261-36bac7ad-7297-4d2e-bf96-62e5e7735db9.jpg" width="400">
 
 
-## Low Thrust Trajectory Optimization
+## Low Thrust Trajectory Optimization (MATLAB)
 Optimized transfer trajectory for minimum fuel using burn cost burn trajectory (AERO557, Cal Poly SLO)
 
 <img src="https://user-images.githubusercontent.com/55825284/155866342-0a3d01a1-6369-4ce4-9b5f-a7e052d82bbd.png" width="400">
